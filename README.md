@@ -2,11 +2,11 @@
 ## Descrição do Código
 Este projeto em C implementa um sistema de gerenciamento de hotel, permitindo o cadastro e a manipulação de dados de clientes, funcionários, quartos e estadias. As principais funcionalidades incluem:
 
-###Cadastro de Clientes: Permite adicionar novos clientes, armazenando informações como nome, endereço e telefone. Os dados são salvos em um arquivo chamado clientes.txt.
-###Cadastro de Funcionários: Permite adicionar novos funcionários, armazenando informações como nome, telefone, cargo e salário. Os dados são salvos em um arquivo chamado funcionarios.txt.
-###Cadastro de Quartos: Permite adicionar novos quartos, armazenando informações como número, quantidade de hóspedes, valor da diária e status (ocupado ou desocupado). Os dados são salvos em um arquivo chamado quartos.txt.
-###Cadastro de Estadias: Permite adicionar novas estadias, verificando a disponibilidade de quartos e calculando o valor total com base na quantidade de diárias. Os dados são salvos em um arquivo chamado estadias.txt.
-###Finalização de Estadias: Permite finalizar uma estadia, atualizando o status do quarto para desocupado e calculando o valor total a ser pago pelo cliente.
+### Cadastro de Clientes: Permite adicionar novos clientes, armazenando informações como nome, endereço e telefone. Os dados são salvos em um arquivo chamado clientes.txt.
+### Cadastro de Funcionários: Permite adicionar novos funcionários, armazenando informações como nome, telefone, cargo e salário. Os dados são salvos em um arquivo chamado funcionarios.txt.
+### Cadastro de Quartos: Permite adicionar novos quartos, armazenando informações como número, quantidade de hóspedes, valor da diária e status (ocupado ou desocupado). Os dados são salvos em um arquivo chamado quartos.txt.
+### Cadastro de Estadias: Permite adicionar novas estadias, verificando a disponibilidade de quartos e calculando o valor total com base na quantidade de diárias. Os dados são salvos em um arquivo chamado estadias.txt.
+### Finalização de Estadias: Permite finalizar uma estadia, atualizando o status do quarto para desocupado e calculando o valor total a ser pago pelo cliente.
 ###Pesquisa de Clientes: Permite pesquisar clientes pelo código ou nome, exibindo as informações encontradas.
 ###Pesquisa de Funcionários: Permite pesquisar funcionários pelo código ou nome, exibindo as informações encontradas.
 ###Mostrar Estadias de um Cliente: Exibe todas as estadias registradas para um determinado cliente.
