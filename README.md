@@ -68,3 +68,5 @@ Para compilar e executar o sistema, utilize os comandos abaixo:
 ```sh
 gcc -o hotel hotel.c
 ./hotel
+
+
